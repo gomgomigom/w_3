@@ -1,4 +1,4 @@
-PI = 3.14
+from shapes import PI
 
 # 원의 면적을 구해 주는 함수
 def circle(radius):

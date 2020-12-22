@@ -1,4 +1,4 @@
-PI = 3.14
+from shapes import PI
 
 def sphere(radius):
     return (4 / 3) * PI * radius ** 3

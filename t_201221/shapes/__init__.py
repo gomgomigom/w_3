@@ -1,1 +1,3 @@
-print("__init__.py 파일 실행")
+# from shapes import volume, area_2
+#
+PI = 3.14

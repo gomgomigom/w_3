@@ -1,6 +1,12 @@
-print(__name__)
-import areaa
+# print(__name__)
+# import areaa
+#
+#
+# print(areaa.circle_area_1(5))
+from shapes.volume import sphere
 
 
-print(areaa.circle_area_1(5))
+print(sphere(5))
+
+
 
