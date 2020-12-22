@@ -1,2 +1,3 @@
 ## w_3
-Coding practice..
+Coding practice.. 
+Week 3
